@@ -15,16 +15,16 @@ navigation: widget
 
 
 strings:
-    productName:		StratOS
-    shortProductName:   	StratOS
-    version:			2024.02
-    shortVersion:        	2024.02
-    versionedName:		StratOS
-    shortVersionedName:		StratOS
-    bootloaderEntryName:	StratOS
-    productUrl:			https://github.com/stratos-linux/StratOS-iso
-    supportUrl:			https://github.com/stratos-linux/StratOS-iso
-    releaseNotesUrl:          	https://github.com/stratos-linux/StratOS-iso
+    productName:		海纳思HinasOS
+    shortProductName:   	海纳思HinasOS
+    version:			2025.02
+    shortVersion:        	2025.02
+    versionedName:		海纳思HinasOS
+    shortVersionedName:		海纳思HinasOS
+    bootloaderEntryName:	海纳思HinasOS
+    productUrl:			https://www.ecoo.top
+    supportUrl:			https://www.hinas.top
+    releaseNotesUrl:          	https://www.ecoo.top
 
 
 uploadServer :
